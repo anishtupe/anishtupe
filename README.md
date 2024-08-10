@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anishtupe
+<h2 align = "centre">👋 Hi, I’m @anishtupe</h2>
 
  <h3 align="center">A passionate Computer Engineer from India</h3>
 
