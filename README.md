@@ -2,7 +2,7 @@
 
  <h3 align="center">A passionate Computer Engineer from India</h3>
 
- <iframe src="https://giphy.com/embed/3ornk57KwDXf81rjWM" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM">via GIPHY</a></p>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishtupe" alt="anishtupe" /></a> </p>
 
