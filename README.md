@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anishtupe](https://github.com/anishtupe)
 
-- 📫 How to reach me **tupeanish672@gmial.com**
+- 📫 How to reach me **tupeanish672@gmail.com**
 
 - ⚡ Fun fact **I used to make phishing links to prank my family members**
 
