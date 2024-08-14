@@ -2,6 +2,8 @@
 
  <h3 align="center">A passionate Computer Engineer from India</h3>
 
+ <div align="center" class="tenor-gif-embed" data-postid="14879949050853130958" data-share-method="host" data-aspect-ratio="1.12222" data-width="100%"><a href="https://tenor.com/view/ok-okey-darth-vader-chido-gif-14879949050853130958">Ok Okey Sticker</a>from <a href="https://tenor.com/search/ok-stickers">Ok Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishtupe" alt="anishtupe" /></a> </p>
