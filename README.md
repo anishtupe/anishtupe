@@ -1,7 +1,7 @@
 <h2>                            👋 Hi, I’m @anishtupe                             </h2>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/9e2b3c01fea8a29d8c91930bf76e5e39/0e7a31938fdca614-d9/s1280x1920/b1dbc412d7fb6ce54b71ac11df4f196680749a74.gifv" align="center" style="height: 200px">
+  <img src="https://64.media.tumblr.com/8fc2974ef1e28d2882aaa87e3b19bca6/03db0e1df7014add-ab/s640x960/d354e6a1340c3a5fb57ba0f32b7f8b3c354c26fc.gifv" align="center" style="height: 200px">
 </div>
 
  <h3 align="center">A passionate Computer Engineer from India</h3>
