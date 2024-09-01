@@ -4,7 +4,7 @@
   <img src="https://64.media.tumblr.com/8fc2974ef1e28d2882aaa87e3b19bca6/03db0e1df7014add-ab/s640x960/d354e6a1340c3a5fb57ba0f32b7f8b3c354c26fc.gifv" align="center" style="height: 200px">
 </div>
 
- <h3 align="center">A passionate Computer Engineer from India</h3>
+ <h3 align="center">A passionate App Developer from India</h3>
 
   
  
